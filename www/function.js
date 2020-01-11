@@ -1,4 +1,4 @@
-var versi = '1';
+var versi = '2';
 var url = "https://kedaihw.web.id/app/";
 var url_admin = "https://kedaihw.web.id/";
 var api_ongkir = "https://ongkir.tokojs.com/api_ongkir/";
